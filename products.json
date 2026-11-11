@@ -1,0 +1,30 @@
+{
+  "shopName": "Petrik webshop",
+  "products": [
+    {
+      "name": "Laptop with accessories",
+      "img": "https://picsum.photos/id/0/500/400",
+      "price": 350000
+    },
+    {
+      "name": "Trip to Greece",
+      "img": "https://picsum.photos/id/49/500/400",
+      "price": 550000
+    },
+    {
+      "name": "Your own Lighthouse!",
+      "img": "https://picsum.photos/id/58/500/400",
+      "price": 99000000
+    },
+    {
+      "name": "Café au lait",
+      "img": "https://picsum.photos/id/63/500/400",
+      "price": 350000
+    },
+    {
+      "name": "Adopt a cute puppy",
+      "img": "https://picsum.photos/id/237/500/400",
+      "price": 19000
+    }
+  ]
+}
